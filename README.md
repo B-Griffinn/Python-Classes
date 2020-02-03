@@ -1,6 +1,7 @@
 # Python-Classes
+
 My introduction to Python Classes
 
+I found this great YouTube playlist on Python Classes created by Corey Schafer - [Python OOP Tutorial](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc )
 
-# Create and Instantiate simple classes
-# Classes are great for logically grouping data and functions in a way that is easy to reuse and build upon if need be.
+The six videos were extremely helpful during my introductory days of studying Python after spending the past few years focusing on JavaScript. 
